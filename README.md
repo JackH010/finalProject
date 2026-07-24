@@ -13,4 +13,3 @@ This project implements a fully automated local deployment pipeline. A push to t
 - **Docker** — packaging for the application, and the runtime for both Jenkins and the deployed app
 - **Terraform** (`kreuzwerker/docker` provider) — declarative deployment of the app container
 
-## Project Structure
